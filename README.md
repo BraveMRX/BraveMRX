@@ -23,6 +23,8 @@
 > Full Stack Developer · Network Engineer · Linux SysAdmin · Security Researcher
 ```
 
+> *"I don't just write code; I build ecosystems. From securing network infrastructures to patching authentication systems, I operate at the intersection of intelligence and infrastructure."*
+
 - 🧑‍💻 **Full Stack Developer** — از Frontend تا Backend تا Infrastructure
 - 🌐 Professional **Network Engineer** with hands-on expertise in **MikroTik** and **Cisco**
 - 🐧 Passionate about **Linux** and a skilled **System Administrator**
