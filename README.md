@@ -176,8 +176,6 @@
 
 ---
 
----
-
 ## 💖 Support My Work
 
 <p align="center">
