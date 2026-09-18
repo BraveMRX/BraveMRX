@@ -178,14 +178,12 @@
 
 ## 💖 Support My Work
 
-<p align="center">
-  <i>"If my work helped you, buy me a coffee ☕"</i><br>
-  <b>Every contribution fuels the journey 🚀</b>
-</p>
+<i>"If my work helped you, buy me a coffee ☕"</i><br>
+<b>Every contribution fuels the journey 🚀</b>
 
 <br>
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center" width="80">
       <img src="https://cdn.simpleicons.org/ton/0098EA" width="45" height="45" alt="TON" />
@@ -236,11 +234,11 @@
   </tr>
 </table>
 
+<br clear="left">
+
 <br>
 
-<p align="center">
-  <i>Thank you for your support ❤️</i>
-</p>
+<i>Thank you for your support ❤️</i>
 
 ---
 
