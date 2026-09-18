@@ -172,7 +172,7 @@
 
 ---
 
-## 💖 Support My Work
+## 💖 Support Me
 
 <i>"If my work helped you, buy me a coffee ☕"</i><br>
 <b>Every contribution fuels the journey 🚀</b>
@@ -233,8 +233,6 @@
 <br clear="left">
 
 <br>
-
-<i>Thank you for your support ❤️</i>
 
 ---
 
