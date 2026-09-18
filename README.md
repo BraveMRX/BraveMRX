@@ -1,4 +1,7 @@
-# Hi there, I'm BraveMRX 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:338BF7&height=180&section=header&text=BraveMRX&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Architecting%20Intelligence%20%7C%20Forging%20Systems%20%7C%20Securing%20the%20Cloud&descAlignY=80&descSize=16" />
+</p>
+
 
 <p align="center">
   <a href="https://github.com/BraveMRX">
