@@ -262,3 +262,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&animation=twinkling" />
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=140&section=footer&text=Build.%20Secure.%20Repeat.&fontSize=20&fontColor=ffffff&animation=twinkling" />
+</p>
