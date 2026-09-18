@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:338BF7&height=180&section=header&text=BraveMRX&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Architecting%20Intelligence%20%7C%20Forging%20Systems%20%7C%20Securing%20the%20Cloud&descAlignY=80&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:338BF7&height=180&section=header&text=BraveMRX&fontSize=50&fontColor=00FFFF&animation=twinkling&desc=Architecting%20Intelligence%20%7C%20Forging%20Systems%20%7C%20Securing%20the%20Cloud&descAlignY=80&descSize=16&descColor=8B949E" />
 </p>
 
 <p align="center">
@@ -264,5 +264,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:338BF7,100:00FFFF&height=140&section=footer&text=BraveMRX&fontSize=36&fontColor=ffffff&fontAlignY=70&animation=twinkling&desc=Build.%20Secure.%20Repeat.&descAlignY=88&descSize=14&descColor=B0B0B0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:338BF7,100:0D1117&height=140&section=footer&text=BraveMRX&fontSize=36&fontColor=00FFFF&fontAlignY=70&animation=twinkling&desc=Build.%20Secure.%20Repeat.&descAlignY=88&descSize=14&descColor=8B949E" />
 </p>
