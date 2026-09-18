@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F1F1F&height=180&section=header&text=BraveMRX&fontSize=50&fontColor=FFFFFF&animation=twinkling&desc=Architecting%20Intelligence%20%7C%20Forging%20Systems%20%7C%20Securing%20the%20Cloud&descAlignY=80&descSize=16&descColor=B0B0B0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F1F1F&height=180&section=header&text=BraveMRX&fontSize=50&fontColor=FFFFFF&animation=twinkling&desc=Architecting%20Systems%20%7C%20Forging%20Systems%20%7C%20Securing%20the%20Cloud&descAlignY=80&descSize=16&descColor=B0B0B0" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 
 ---
 
-## 🧩 Full Stack Stack
+## 🧩 Full Stack Arsenal
 
 <p align="left">
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" />
