@@ -1,61 +1,35 @@
-# Hi there, I'm BraveMRX 👋
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    BraveMRX · GitHub Profile                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🖥️ Network Engineer · Linux SysAdmin · Security Researcher
+<!-- 🎨 بنر گرافیکی (اگه بنر داری، آدرسش رو جایگزین کن) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/banner-light.png">
+    <img alt="BraveMRX Banner" src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/banner-dark.png" width="100%">
+  </picture>
+</p>
+
+<!-- ⌨️ متن متحرک (Typing SVG) -->
+<p align="center">
+  <a href="https://github.com/BraveMRX">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Network+Engineer+%7C+Linux+SysAdmin;Security+Researcher+%7C+Ethical+Hacker;Data+Center+Virtualization+Expert;Digital+Forensics+%7C+IoT+Enthusiast;Graphic+Designer+%7C+SEO+Specialist" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- 👁️ شمارنده بازدید -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BraveMRX&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/BraveMRX?label=Followers&style=for-the-badge&color=36BCF7" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Security%20%26%20Networking-red?style=for-the-badge" alt="Focus" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌐 Professional Network Engineer with hands-on expertise in **MikroTik** and **Cisco**
-- 🐧 Passionate about **Linux** and a skilled **System Administrator**
-- 🔐 Active in **Cybersecurity** and **Vulnerability Research**
-- 🏢 Specialized in **Data Center Virtualization** (VMware / Proxmox / KVM)
-- 🔍 Working in **Digital Forensics**
-- 📡 Enthusiast of **Internet of Things (IoT)**
-- 🗄️ Experienced in **Database Administration (DBA)**
-- 🎨 **Graphic Designer** and **Web Design & SEO Specialist**
-- 🛡️ Currently researching the **security of KYC / Authentication systems**
-
----
-
-## 💻 Languages I Work With
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
----
-
-## 🛠️ Skills & Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraveMRX&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BraveMRX&layout=compact&theme=dark)
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: iam@bravemrx.ir
-- 💬 Telegram: [@BraveMRX](https://t.me/BraveMRX)
-- 🌐 Website: [BraveMRX.ir](https://BraveMRX.ir)
-
----
-
-⭐️ Thanks for stopping by!
+```bash
+┌──[bravemrx@localhost]─[~]
+└──╼ $ whoami
+> Network Engineer · Linux SysAdmin · Security Researcher
