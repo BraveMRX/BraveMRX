@@ -265,12 +265,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=140&section=footer&text=Build.%20Secure.%20Repeat.&fontSize=20&fontColor=ffffff&animation=twinkling" />
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=140&section=footer&text=—%20BraveMRX&fontSize=32&fontColor=ffffff&fontAlignY=70&animation=twinkling&desc=Build.%20Secure.%20Repeat.&descAlignY=88&descSize=14&descColor=B0B0B0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=160&section=footer&text=BraveMRX&fontSize=38&fontColor=ffffff&fontAlignY=65&animation=twinkling&desc=Thanks%20for%20stopping%20by!&descAlignY=88&descSize=16&descColor=B0B0B0" />
 </p>
