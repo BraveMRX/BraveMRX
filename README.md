@@ -176,42 +176,72 @@
 
 ---
 
+---
+
 ## 💖 Support My Work
 
 <p align="center">
-  <i>«اگه کارهام برات مفید بود، یه قهوه مهمونم کن ☕»</i>
-</p>
-
-<p align="center">
-  <b>هر حمایتی، انگیزه‌ای برای ادامه راهه 🚀</b>
+  <i>"If my work helped you, buy me a coffee ☕"</i><br>
+  <b>Every contribution fuels the journey 🚀</b>
 </p>
 
 <br>
 
-<p align="center">
-  <b>🪙 TON</b><br>
-  <code>UQCFq5R-AK5VapfDaBDil7FKE5dDqSh00WwdpJPq_-d2p4ZQ</code>
-</p>
-
-<p align="center">
-  <b>₿ Bitcoin (BTC)</b><br>
-  <code>bc1q3gf7vsezxvtpcfnxk2uhz3qmn07lke58ueqw4m</code>
-</p>
-
-<p align="center">
-  <b>Ξ Ethereum (ETH)</b><br>
-  <code>0x8e99D298e97892fDB7AE2723d14BB23CCa8d658d</code>
-</p>
-
-<p align="center">
-  <b>♦️ Tron (TRX)</b><br>
-  <code>TD4ZS569cbR9ud8uvN3jJMCaQvE7KRGzix</code>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.simpleicons.org/ton/0098EA" width="45" height="45" alt="TON" />
+    </td>
+    <td>
+      <b>TON Wallet</b><br>
+      <a href="ton://transfer/UQCFq5R-AK5VapfDaBDil7FKE5dDqSh00WwdpJPq_-d2p4ZQ">
+        <img src="https://img.shields.io/badge/Open_in_Wallet-0098EA?style=for-the-badge&logo=ton&logoColor=white" />
+      </a><br>
+      <code>UQCFq5R-AK5VapfDaBDil7FKE5dDqSh00WwdpJPq_-d2p4ZQ</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/bitcoin/F7931A" width="45" height="45" alt="BTC" />
+    </td>
+    <td>
+      <b>Bitcoin</b><br>
+      <a href="bitcoin:bc1q3gf7vsezxvtpcfnxk2uhz3qmn07lke58ueqw4m">
+        <img src="https://img.shields.io/badge/Open_in_Wallet-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+      </a><br>
+      <code>bc1q3gf7vsezxvtpcfnxk2uhz3qmn07lke58ueqw4m</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="45" height="45" alt="ETH" />
+    </td>
+    <td>
+      <b>Ethereum</b><br>
+      <a href="ethereum:0x8e99D298e97892fDB7AE2723d14BB23CCa8d658d">
+        <img src="https://img.shields.io/badge/Open_in_Wallet-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+      </a><br>
+      <code>0x8e99D298e97892fDB7AE2723d14BB23CCa8d658d</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/tron/FF060A" width="45" height="45" alt="TRX" />
+    </td>
+    <td>
+      <b>Tron</b><br>
+      <a href="tron:TD4ZS569cbR9ud8uvN3jJMCaQvE7KRGzix">
+        <img src="https://img.shields.io/badge/Open_in_Wallet-FF060A?style=for-the-badge&logo=tron&logoColor=white" />
+      </a><br>
+      <code>TD4ZS569cbR9ud8uvN3jJMCaQvE7KRGzix</code>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <p align="center">
-  <i>ممنون از حمایتت ❤️</i>
+  <i>Thank you for your support ❤️</i>
 </p>
 
 ---
