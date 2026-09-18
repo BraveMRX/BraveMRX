@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:338BF7&height=180&section=header&text=BraveMRX&fontSize=50&fontColor=00FFFF&animation=twinkling&desc=Architecting%20Intelligence%20%7C%20Forging%20Systems%20%7C%20Securing%20the%20Cloud&descAlignY=80&descSize=16&descColor=8B949E" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=180&section=header&text=BraveMRX&fontSize=50&fontColor=00FFFF&animation=twinkling&desc=Architecting%20Intelligence%20%7C%20Forging%20Systems%20%7C%20Securing%20the%20Cloud&descAlignY=80&descSize=16&descColor=8B949E" />
 </p>
 
