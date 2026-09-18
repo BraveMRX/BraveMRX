@@ -176,6 +176,46 @@
 
 ---
 
+## 💖 Support My Work
+
+<p align="center">
+  <i>«اگه کارهام برات مفید بود، یه قهوه مهمونم کن ☕»</i>
+</p>
+
+<p align="center">
+  <b>هر حمایتی، انگیزه‌ای برای ادامه راهه 🚀</b>
+</p>
+
+<br>
+
+<p align="center">
+  <b>🪙 TON</b><br>
+  <code>UQCFq5R-AK5VapfDaBDil7FKE5dDqSh00WwdpJPq_-d2p4ZQ</code>
+</p>
+
+<p align="center">
+  <b>₿ Bitcoin (BTC)</b><br>
+  <code>bc1q3gf7vsezxvtpcfnxk2uhz3qmn07lke58ueqw4m</code>
+</p>
+
+<p align="center">
+  <b>Ξ Ethereum (ETH)</b><br>
+  <code>0x8e99D298e97892fDB7AE2723d14BB23CCa8d658d</code>
+</p>
+
+<p align="center">
+  <b>♦️ Tron (TRX)</b><br>
+  <code>TD4ZS569cbR9ud8uvN3jJMCaQvE7KRGzix</code>
+</p>
+
+<br>
+
+<p align="center">
+  <i>ممنون از حمایتت ❤️</i>
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
