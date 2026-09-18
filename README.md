@@ -145,12 +145,12 @@
 
 <p align="center">
 
-| 🧑‍💻 Development | 🌐 Infrastructure | 🔐 Security |
-|:---:|:---:|:---:|
-| Full Stack Web Apps | Network Design & Config | Penetration Testing |
-| WHMCS Custom Modules | Data Center Virtualization | Digital Forensics |
-| REST APIs & Automation | Linux Server Hardening | Vulnerability Research |
-| Frontend & Backend | MikroTik / Cisco | KYC / Auth Security |
+| 🧑‍💻 Development | 🌐 Infrastructure | 🔐 Security | 🎨 Creative & Multimedia |
+|:---:|:---:|:---:|:---:|
+| Full Stack Web Apps | Network Design & Config | Penetration Testing | 3D Design & Modeling |
+| WHMCS Custom Modules | Data Center Virtualization | Digital Forensics | Video Editing & Post-Production |
+| REST APIs & Automation | Linux Server Hardening | Vulnerability Research | Photo Editing & Retouching |
+| Frontend & Backend | MikroTik / Cisco | KYC / Auth Security | Motion Graphics & Compositing |
 
 </p>
 
