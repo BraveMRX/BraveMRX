@@ -168,14 +168,6 @@
 
 ---
 
-## 💬 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
----
-
 ## 💖 Support My Work
 
 <i>"If my work helped you, buy me a coffee ☕"</i><br>
