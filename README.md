@@ -216,18 +216,18 @@
       <code>0x8e99D298e97892fDB7AE2723d14BB23CCa8d658d</code>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/tron/default.svg" width="45" height="45" alt="TRX" />
-    </td>
-    <td>
-      <b>Tron</b><br>
-      <a href="tron:TD4ZS569cbR9ud8uvN3jJMCaQvE7KRGzix">
-        <img src="https://img.shields.io/badge/Open_in_Wallet-000000?style=for-the-badge&logo=tron&logoColor=white" />
-      </a><br>
-      <code>TD4ZS569cbR9ud8uvN3jJMCaQvE7KRGzix</code>
-    </td>
-  </tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/TRX-000000?style=for-the-badge&logo=tron&logoColor=white" width="60" height="45" alt="TRX" />
+  </td>
+  <td>
+    <b>Tron</b><br>
+    <a href="tron:TD4ZS569cbR9ud8uvN3jJMCaQvE7KRGzix">
+      <img src="https://img.shields.io/badge/Open_in_Wallet-000000?style=for-the-badge&logo=tron&logoColor=white" />
+    </a><br>
+    <code>TD4ZS569cbR9ud8uvN3jJMCaQvE7KRGzix</code>
+  </td>
+</tr>
 </table>
 
 <br clear="left">
