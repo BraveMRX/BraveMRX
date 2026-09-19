@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/BraveMRX.png" width="100%" alt="BraveMRX Header" />
 </p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/header.svg" width="100%" alt="Header" />
+  <br>
+  <img src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/profile.png" width="180" style="margin-top: -200px;" alt="Profile" />
+</div>
 <p align="center">
   <a href="https://github.com/BraveMRX">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Network+Engineer;Linux+SysAdmin+%7C+Security+Researcher;Data+Center+Virtualization+Expert;Digital+Forensics+%7C+IoT+Enthusiast;WHMCS+%7C+Graphic+Designer+%7C+SEO" alt="Typing SVG" />
