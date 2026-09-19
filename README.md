@@ -1,21 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/BraveMRX.png" width="100%" alt="BraveMRX Header" />
 </p>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 360" width="1280" height="360">
-  
-  <!-- پس‌زمینه -->
-  <rect width="1280" height="360" fill="#000000"/>
-  
-  <!-- موج ۱ -->
-  <path d="M0,240 C320,180 640,300 960,240 C1120,210 1200,260 1280,240 L1280,360 L0,360 Z" fill="#1F1F1F"/>
-  
-  <!-- موج ۲ -->
-  <path d="M0,120 C320,60 640,180 960,120 C1120,90 1200,140 1280,120 L1280,0 L0,0 Z" fill="#1F1F1F" opacity="0.5"/>
-  
-  <!-- عکس خودت -->
-  <image xlink:href="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/BraveMRX.png" x="540" y="40" width="200" height="200" preserveAspectRatio="xMidYMid meet"/>
-  
-</svg>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BraveMRX&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
