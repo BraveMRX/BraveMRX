@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/BraveMRX.png" width="100%" alt="BraveMRX Header" />
 </p>
-div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F1F1F&height=180&section=header&text=BraveMRX&fontSize=50&fontColor=FFFFFF&animation=twinkling&desc=Architecting%20Intelligence%20%7C%20Forging%20Systems%20%7C%20Securing%20the%20Cloud&descAlignY=80&descSize=16&descColor=B0B0B0" width="100%" />
 </div>
 
