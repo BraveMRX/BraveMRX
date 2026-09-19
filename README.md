@@ -2,17 +2,10 @@
   <img src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/BraveMRX.png" width="100%" alt="BraveMRX Header" />
 </p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F1F1F&height=180&section=header&text=BraveMRX&fontSize=50&fontColor=FFFFFF&animation=twinkling&desc=Architecting%20Intelligence%20%7C%20Forging%20Systems%20%7C%20Securing%20the%20Cloud&descAlignY=80&descSize=16&descColor=B0B0B0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F1F1F&height=220&section=header&text=BraveMRX&fontSize=50&fontColor=FFFFFF&animation=twinkling&desc=Architecting%20Intelligence%20%7C%20Forging%20Systems%20%7C%20Securing%20the%20Cloud&descAlignY=75&descSize=16&descColor=B0B0B0" width="100%" />
+  <br>
+  <img src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/BraveMRX.png" width="180" style="margin-top: -180px;" />
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/BraveMRX.png" width="180" />
-</div>
-<p align="center">
-  <a href="https://github.com/BraveMRX">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Network+Engineer;Linux+SysAdmin+%7C+Security+Researcher;Data+Center+Virtualization+Expert;Digital+Forensics+%7C+IoT+Enthusiast;WHMCS+%7C+Graphic+Designer+%7C+SEO" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BraveMRX&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
