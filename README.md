@@ -1,7 +1,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/BraveMRX.png" width="100%" alt="BraveMRX Header" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F1F1F&height=180&section=header" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BraveMRX/BraveMRX/main/BraveMRX.png" width="200" />
+</p>
 <p align="center">
   <a href="https://github.com/BraveMRX">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Network+Engineer;Linux+SysAdmin+%7C+Security+Researcher;Data+Center+Virtualization+Expert;Digital+Forensics+%7C+IoT+Enthusiast;WHMCS+%7C+Graphic+Designer+%7C+SEO" alt="Typing SVG" />
